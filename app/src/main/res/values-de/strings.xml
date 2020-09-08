@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica 1 Android</string>
+    <string name="tittle">Willkommen</string>
+    <string name="login_button">Betreten</string>
+</resources>

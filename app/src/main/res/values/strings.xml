@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica 1 Android</string>
+    <string name="tittle">Bienvenido</string>
+    <string name="login_button">Entrar</string>
+</resources>
